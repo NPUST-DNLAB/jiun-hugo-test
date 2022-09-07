@@ -1,0 +1,4 @@
+baseURL = 'https://npust-dnlab.github.io/jiun-hugo-test/'
+languageCode = 'en-us'
+title = 'DNLAB New Hugo Site'
+theme = "ananke"
